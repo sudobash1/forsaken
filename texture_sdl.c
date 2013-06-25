@@ -4,7 +4,7 @@
 
 #ifdef TEXTURE_SDL
 
-#include <SDL.h>
+#include <SDL/SDL.h>
 #include "SDL_image.h" 
 
 static int init( void )

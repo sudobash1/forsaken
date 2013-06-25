@@ -4,7 +4,7 @@
 #include "util.h"
 #include "sound.h"
 #include "file.h"
-#include <SDL.h>
+#include <SDL/SDL.h>
 #include <AL/al.h>
 #include <AL/alc.h>
 //#include <efx.h>

@@ -4,7 +4,7 @@
 #include "render.h"
 #include "texture.h"
 #include "file.h"
-#include <SDL.h>
+#include <SDL/SDL.h>
 #include "SDL_opengl.h"
 #include <stdio.h>
 #include "new3d.h"

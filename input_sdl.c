@@ -2,7 +2,7 @@
 #include "input.h"
 #include "util.h"
 #include "render.h"
-#include <SDL.h>
+#include <SDL/SDL.h>
 
 JOYSTICKINFO JoystickInfo[MAX_JOYSTICKS];
 

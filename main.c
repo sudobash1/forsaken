@@ -11,7 +11,7 @@
 #include "title.h"
 #include "lua_common.h"
 #include "sfx.h"
-#include <SDL.h>
+#include <SDL/SDL.h>
 #include "input.h"
 #include "sound.h"
 

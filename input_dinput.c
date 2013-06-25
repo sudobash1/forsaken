@@ -80,7 +80,7 @@ mouse_state_t* read_mouse( void )
 #include "input.h"
 #include "util.h"
 #include "render.h"
-#include <SDL.h>
+#include <SDL/SDL.h>
 #include <stdio.h>
 #include <windows.h>
 #include "dinput.h"
